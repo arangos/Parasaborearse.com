@@ -1,0 +1,69 @@
+
+footer .column1 {
+position: relative;
+top: -18px;
+}
+
+.cover_boxes ul li .box .box_content { top: 0; }
+.cover_boxes ul li .box .qbutton { margin-top: 18px; }
+
+
+#nav-menu-item-14860 li,
+#nav-menu-item-14862 li,
+#nav-menu-item-14864 li,
+#nav-menu-item-14866 li,
+#nav-menu-item-15100 li,
+#nav-menu-item-15102 li{
+width: 280px;
+}
+
+.drop_down .second .inner .widget {
+padding-bottom: 13px;
+}
+
+.drop_down .second .inner .widget a{
+padding: 0px !important;
+}
+
+.carousel-inner .item.dark .slider_content .text .qbutton,
+.carousel-inner .item.light .slider_content .text .qbutton { 
+    background-color: transparent;    
+    border-color: #000;
+}
+
+.carousel-inner .item.light .slider_content .text .qbutton.white {
+     background-color: transparent;
+}
+
+.carousel-inner .item.dark .slider_content .text .qbutton.white:hover,
+.carousel-inner .item.dark .slider_content .text .qbutton:hover,
+.carousel-inner .item.light .slider_content .text .qbutton.white:hover,
+.carousel-inner .item.light .slider_content .text .qbutton:hover {
+background-color: #f53644;
+border-color: #f53644 !important;
+}
+
+.carousel-inner .item.dark .slider_content .text .qbutton:hover,
+.carousel-inner .item.light .slider_content .text .qbutton:hover { 
+    color: #fff; 
+}
+
+.testimonials_holder .flex-direction-nav a:hover {
+    background-color: #f53644 ;
+    border-color: #f53644 ;
+}
+
+.contact_detail .contact_section > h4 {
+display: none;
+}
+
+.blog_large_image h2,
+.blog_large_image h2 a,
+.blog_holder.blog_single article h2,
+.blog_holder.blog_single article h2 a {
+font-size: 27px;
+}
+
+.blog_small_image h2,
+.blog_small_image h2 a { font-size: 22px; }
+
